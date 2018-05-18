@@ -1,0 +1,69 @@
+{
+  "Global": {
+      "dialog": {
+        "networkTitle": "",
+        "networkText": "Unable to connect. Please check that you are connected to the Internet and try again.",
+        "buttonLabel": "OK"
+      },
+      "noNetwork": "No network connection",
+      "onBoardErrorTitle": "Account Error!",
+      "onBoardErrorText": "Couldn't complete the account process, an error occured. Please try again.",
+      "searchBarOverlayLabel": "Search for...",
+      "inputMaxLengthLabel": "min-characters: 5   -   25 :max-characters"
+  },
+  "AlertDialog": {
+      "noButtonLabel": "NO",
+      "yesButtonLabel": "YES",
+      "notNowButtonLabel": "NOT NOW",
+      "continueButtonLabel": "CONTINUE"
+  },
+	"Intro": {
+	  	"introButtonText": "Get Started",
+	  	"introButtonAccessibilityLabel": "Go to the Login page",
+      "slide1Title": "Friendship",
+      "slide1Description": "Q connects you and your friends and the world as a whole.",
+	    "slide2Title": "Free",
+	    "slide2Description": "Q is free to use at anytime and from anywhere.",
+      "slide3Title": "Shuttle-Fast",
+      "slide3Description": "Q is super fast for all sort of communication."
+  },
+  "CreateUser": {
+  		"title": "Create Profile",
+  		"subTitle": "Please provide a username(required) and optional profile image and status",
+  		"usernameLabel": "Username",
+  		"statusLabel": "Status",
+  		"createUserButtonLabel": "Create",
+      "createUserAcessibilityLabel": "Create new user",
+  		"dialog": {
+  			"title": "",
+  			"text": "Should Q set your profile image and username from"
+  		},
+  		"loadingPageText": "Setting up Q for the first time..."
+  },
+  "AuthLoading": {
+      "accountLoadingPageText": "Q is updating your already existing account...",
+      "deactivatedAccountTitle": "Existing Deactivated Account",
+      "deactivatedAccountText": "You have an already existing account which is deactivated. Do you want to activate it again?",
+      "appSetupErrorTitle": "Setup Error!",
+      "appSetupErrorText": "Couldn't complete the setup process, an error occured. Please try again.",
+      "userServerDataErrorText": "Server error! failed to create or update user data"
+  },
+  "Activation": {
+      "activateSubtitle": "Activate your Q account as",
+      "activateButtonLabel": "Activate account",
+      "activateAccessibilityLabel": "Reactivate user account",
+      "activationErrorText": "Activation failed! check your network connection"
+  },
+  "Search": {
+      "searchLabel": "Search"
+  },
+  "ImagePicker": {
+      "title": "Select Image",
+      "item1": "Camera",
+      "item2": "Gallery",
+      "item3": "Remove Photo"
+  },
+  "MessagesModal": {
+      "okButtonLabel": "OK"
+  }
+}
